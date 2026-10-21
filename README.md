@@ -10,4 +10,4 @@ A Python script for converting bmk files exported by [PointerSearcher-SE](https:
 
 Just put the .py file and the .bmk file in the same folder, then double-click to run it and it will output the txt text result.
 
-<img width="1120" height="750" alt="image" src="https://github.com/user-attachments/assets/3d83cf28-97a8-474d-be11-5ce4ec04a902" />
+<img width="1120" height="750" alt="image" src="https://github.com/user-attachments/assets/87dc1282-85c2-499d-8009-670bdc365278" />
